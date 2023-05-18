@@ -1,7 +1,7 @@
 package ShelterRun;
 
 public class Owner {
-    private String name;
+    private final String name;
 
     public Owner(String n){
         name = n;

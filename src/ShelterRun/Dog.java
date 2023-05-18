@@ -19,7 +19,7 @@ public class Dog extends Pet{
         JOptionPane.showMessageDialog(null,  " Dog name = " + name +
                 "\nDog Breed = " + breed +
                 "\nDog Age = " + age +
-                "\nOnwer = " +owner.getName());
+                "\nOwner = " +owner.getName());
     }
 
     @Override
